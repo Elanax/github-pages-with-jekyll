@@ -3,7 +3,7 @@ author: GitHub Lanasp
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Keep learning to code!
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 
 
 # social links
